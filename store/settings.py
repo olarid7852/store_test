@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'drf_yasg',
     'core',
     'store_app',
+    'order',
 ]
 
 MIDDLEWARE = [
